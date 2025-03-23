@@ -1,4 +1,4 @@
-# Airdrop Distribution Smart Contract
+# AirdropX Distribution Smart Contract
 
 ## Overview
 This smart contract enables the decentralized distribution of tokens via an airdrop mechanism. It supports recipient eligibility verification, claim tracking, tiered distribution, emergency withdrawals, and reclaiming unclaimed tokens after a set period. Additionally, it includes pause/resume functionality for security and governance.
